@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+            
+    
+    <wb-module deploy-name="TakeTest">
+                        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+                
+        <wb-resource deploy-path="/" source-path="/src/main/webapp"/>
+        <dependent-module archiveName="jakarta.servlet-api-6.0.0-javadoc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/Downloads/jakarta.servlet-api-6.0.0-javadoc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+                        
+        
+        <property name="context-root" value="TakeTest"/>
+                        
+        
+        <property name="java-output-path" value="/TakeTest/build/classes"/>
+                    
+    
+    </wb-module>
+        
+
+</project-modules>
